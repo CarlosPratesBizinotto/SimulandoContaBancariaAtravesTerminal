@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Thor",
+            "request": "launch",
+            "mainClass": "Thor",
+            "projectName": "SimulandoContaBancariaAtravesTerminal_a3c7c14d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListaDeCoisas",
+            "request": "launch",
+            "mainClass": "ListaDeCoisas",
+            "projectName": "SimulandoContaBancariaAtravesTerminal_a3c7c14d"
+        },
+        {
+            "type": "java",
+            "name": "Launch JogoPPT",
+            "request": "launch",
+            "mainClass": "JogoPPT",
+            "projectName": "SimulandoContaBancariaAtravesTerminal_a3c7c14d"
+        },
+        {
+            "type": "java",
             "name": "Launch ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",
